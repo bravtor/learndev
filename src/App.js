@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+          LearnDev.app
         </p>
         <a
           className="App-link"
@@ -15,7 +15,8 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+         test juste avec un deploy encore une fois et toujours
+      
         </a>
       </header>
     </div>
